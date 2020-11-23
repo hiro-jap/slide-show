@@ -51,7 +51,7 @@ function buttonStop(){
         case 4://トリコ
             // document.write("<marquee style=font-size:100px direction='left' scrollamount='70'>ガッツ！　ガツガツ！</marquee>");
             // document.write("<div style=text-align:center;><img src=https://cdn-scissors.gigaviewer.com/image/scale/57336444c96e0c84021e4f44d0133e288021755d/enlarge=0;height=484;no_unsharpmask=1;quality=90;version=1;width=484/https%3A%2F%2Fcdn-ak-img.shonenjumpplus.com%2Fpublic%2Fseries-thumbnail%2F10833519556325021792-3bd4f015d82e6c57e6059f825ede75d7%3F1601853144 ></div>")
-            location.href ="トリコ用.html"
+            location.href ="https://hiro-jap.github.io/toriko/"
         break; 
         default:
             document.write("<p>miss</p>");
