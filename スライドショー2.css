@@ -1,0 +1,47 @@
+body{margin:0;
+    background-color: rgb(193, 246, 181);}
+
+h1{border:solid black;
+    text-align: center;}
+
+.manga{margin-left: 50px;}
+
+.comment{font-size:60px;
+    height:100px;}
+
+.mainDiv{display: flex;
+    justify-content: flex-start;}
+
+.popUp{display: flex;
+    flex-direction:column;}
+
+.imgGood{width: 200px;
+    height:300px;}
+
+.imgGood2{width:400px;
+    height:300px;
+}
+
+.buttonDiv{margin-left: 50px;}
+.startBtn{
+    width:100px;
+    font-size:12px;
+    color:black;
+    text-align:center;
+    display:inline;
+    padding:10px 0 10px;
+    background:#6BCBF6;
+    border-radius:5px;
+    box-shadow:1px 1px #1A6EA0;
+}
+.stopBtn{
+    width:100px;
+    font-size:12px;
+    color:beige;
+    text-align:center;
+    display:inline;
+    padding:10px 0 10px;
+    background:#6BCBF6;
+    border-radius:5px;
+    box-shadow:1px 1px #1A6EA0;
+}
